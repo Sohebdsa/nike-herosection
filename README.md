@@ -23,22 +23,22 @@ This project showcases a responsive hero section with brand logos, product image
 ---
 
 ## 📂 Project Structure
-nike-herosection/
-├── public/
-│   └── img/ (brand logos & product images)
-├── src/
-│   ├── components/
-│   │   ├── Header.jsx
-│   │   ├── HeroSection.jsx
-│   │   ├── header.css
-│   │   └── hero.css
-│   ├── App.jsx
-│   ├── App.css
-│   ├── index.css
-│   └── main.jsx
-├── index.html
-├── package.json
-└── vite.config.js
+  nike-herosection/
+  ├── public/
+  │   └── img/ (brand logos & product images)
+  ├── src/
+  │   ├── components/
+  │   │   ├── Header.jsx
+  │   │   ├── HeroSection.jsx
+  │   │   ├── header.css
+  │   │   └── hero.css
+  │   ├── App.jsx
+  │   ├── App.css
+  │   ├── index.css
+  │   └── main.jsx
+  ├── index.html
+  ├── package.json
+  └── vite.config.js
 
 
 ---
