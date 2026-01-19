@@ -4,6 +4,9 @@ A simple and modern **Nike brand landing page** built with React and Vite.
 This project showcases a responsive hero section with brand logos, product images, and clean UI styling.
 
 ---
+##📸 Preview
+
+![Nike HeroSection Preview](./screenshot.png)
 
 ## 🚀 Features
 - Responsive hero section layout  
@@ -45,13 +48,12 @@ nike-herosection/
 
 ## ⚡ Getting Started
 
-### 1. Clone the repository
+### 1. steps
 ```bash
 git clone https://github.com/sohebdsa/nike-herosection.git
 cd nike-herosection
 npm install
 npm run dev
 ```
-###📸 Preview
-![Nike HeroSection Preview](./screenshot.png)
+
 
