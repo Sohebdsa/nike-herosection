@@ -23,3 +23,31 @@ This project showcases a responsive hero section with brand logos, product image
 ---
 
 ## 📂 Project Structure
+nike-herosection/
+├── public/
+│   └── img/ (brand logos & product images)
+├── src/
+│   ├── components/
+│   │   ├── Header.jsx
+│   │   ├── HeroSection.jsx
+│   │   ├── header.css
+│   │   └── hero.css
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+├── index.html
+├── package.json
+└── vite.config.js
+
+
+---
+
+## ⚡ Getting Started
+
+### 1. Clone the repository
+```bash
+1.git clone https://github.com/sohebdsa/nike-herosection.git
+2.cd nike-herosection
+3.npm install
+4.npm run dev
