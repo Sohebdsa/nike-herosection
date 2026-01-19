@@ -1,0 +1,34 @@
+:root {
+  --red: #d01c28;
+  --grey: #2e2e2e;
+}
+
+nav {
+  width: 100vw;
+  height: 72px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+.logo {
+  width: 76px;
+}
+.menu ul {
+  display: flex;
+  list-style: none;
+  gap: 24px;
+}
+.menu ul li {
+  font-weight: 600;
+  font-size: 16px;
+}
+button {
+  all: unset;
+  padding: 6px 16px;
+  height: 32px;
+  background: var(--red);
+  font-weight: 500;
+  color: white;
+}
