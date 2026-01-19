@@ -6,39 +6,39 @@ This project showcases a responsive hero section with brand logos, product image
 ---
 
 ## 🚀 Features
-- Responsive hero section layout
-- Nike shoe product showcase
-- Brand logos (Amazon, Flipkart, Nike)
-- Modern CSS styling
-- Built with React + Vite for fast development
+- Responsive hero section layout  
+- Nike shoe product showcase  
+- Brand logos (Amazon, Flipkart, Nike)  
+- Modern CSS styling  
+- Built with React + Vite for fast development  
 
 ---
 
 ## 🛠 Tech Stack
-- **React** (frontend framework)
-- **Vite** (bundler & dev server)
-- **CSS** (custom styling)
+- **React** – Frontend framework  
+- **Vite** – Bundler & dev server  
+- **CSS** – Custom styling  
 - **JavaScript (ES6+)**
 
 ---
 
 ## 📂 Project Structure
-  nike-herosection/
-  ├── public/
-  │   └── img/ (brand logos & product images)
-  ├── src/
-  │   ├── components/
-  │   │   ├── Header.jsx
-  │   │   ├── HeroSection.jsx
-  │   │   ├── header.css
-  │   │   └── hero.css
-  │   ├── App.jsx
-  │   ├── App.css
-  │   ├── index.css
-  │   └── main.jsx
-  ├── index.html
-  ├── package.json
-  └── vite.config.js
+nike-herosection/
+├── public/
+│ └── img/ (brand logos & product images)
+├── src/
+│ ├── components/
+│ │ ├── Header.jsx
+│ │ ├── HeroSection.jsx
+│ │ ├── header.css
+│ │ └── hero.css
+│ ├── App.jsx
+│ ├── App.css
+│ ├── index.css
+│ └── main.jsx
+├── index.html
+├── package.json
+└── vite.config.js
 
 
 ---
@@ -48,3 +48,10 @@ This project showcases a responsive hero section with brand logos, product image
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/sohebdsa/nike-herosection.git
+cd nike-herosection
+npm install
+npm run dev
+```
+###📸 Preview
+![Nike HeroSection Preview](./screenshot.png)
+
