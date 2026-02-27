@@ -42,17 +42,3 @@ nike-herosection/
 ├── package.json
 └── vite.config.js
 ```
-
----
-
-## ⚡ Getting Started
-
-### 1. steps
-```bash
-git clone https://github.com/sohebdsa/nike-herosection.git
-cd nike-herosection
-npm install
-npm run dev
-```
-
-
